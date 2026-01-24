@@ -1,4 +1,3 @@
-Task 01 Documentation
 # Task 01 – Desktop Landing Page Redesign /  Savana Desktop UX/UI Redesign
 
 ## Overview
