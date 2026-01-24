@@ -1,9 +1,10 @@
 # Task 01 – Desktop Landing Page Redesign /  Savana Desktop UX/UI Redesign
 
 ## Overview
-This repository contains a presentation-based UX/UI redesign of the Savana landing page, focused on improving the desktop user experience.
 
-The goal of this project was to analyze usability issues, restructure navigation, and present a clearer visual hierarchy through a conceptual redesign
+This repository contains a presentation-based UX/UI redesign of the Savana landing page, focused on improving the desktop user experience.
+The goal of this project was to analyze usability issues, restructure navigation, and present a clearer visual hierarchy through a conceptual 
+
 ---
 
 ## Problem Statement
