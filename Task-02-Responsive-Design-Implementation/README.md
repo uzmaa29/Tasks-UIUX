@@ -1,1 +1,25 @@
+# Responsive Design Implementation – Task 2
+
+##  Project Overview
+This project demonstrates the implementation of a responsive webpage designed to adapt seamlessly across different screen sizes. The page focuses on teaching front-end development fundamentals using HTML, CSS, and JavaScript.
+
+The layout is structured, clean, and suitable for learners of all levels, including students, professionals, and self-learners.
+
+---
+
+## Objective
+- To design a responsive webpage using HTML, CSS, and JavaScript
+- To ensure usability across desktop, tablet, and mobile devices
+- To implement basic interactivity using JavaScript
+- To follow clean UI/UX and accessibility principles
+
+---
+
+##  Technologies Used
+- **HTML5** – Page structure and semantic layout  
+- **CSS3** – Styling, layout, and responsive design  
+- **JavaScript** – Button interaction and basic functionality  
+
+---
+
 
