@@ -3,8 +3,6 @@
 ##  Project Overview
 This project demonstrates the implementation of a responsive webpage designed to adapt seamlessly across different screen sizes. The page focuses on teaching front-end development fundamentals using HTML, CSS, and JavaScript.
 
-The layout is structured, clean, and suitable for learners of all levels, including students, professionals, and self-learners.
-
 ---
 
 ## Objective
