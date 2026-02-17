@@ -131,7 +131,7 @@ This project demonstrates how UX design principles can be applied to solve real-
 
 ---
 
-## 📎 Deliverables
+## Deliverables
 
 * UX Research and Analysis
 * Low-Fidelity Wireframes
